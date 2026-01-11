@@ -70,4 +70,4 @@ streamlit run app.py
 API_KEY = 본인이 발급받은 api 키
 
 ### 문의
-김민수 : rlaalstn1504@naver.com
+박성진 : psjin2010@gmail.com
