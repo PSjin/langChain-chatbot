@@ -1,7 +1,8 @@
 # LLM 기반 의료 상담 및 병원 추천 서비스
 <img width="775" height="315" alt="image" src="https://github.com/user-attachments/assets/c2b4a14a-e993-4006-ac6a-eb4919c377fb" />
+<img width="1074" height="802" alt="image" src="https://github.com/user-attachments/assets/957c119f-a6d1-4119-b2a0-9e62cb340fcc" />
 
-<img src="화면.png">
+<!-- img src="화면.png"-->
 
 ## 서비스 정보
 
