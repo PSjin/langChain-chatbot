@@ -6,7 +6,7 @@
 
 
 ## <수행결과
-<img width="815" height="895" alt="image" src="https://github.com/user-attachments/assets/a8b04465-b5e4-4802-afe6-c6a3ca481cf3" />
+<img width="489" height="537" alt="image" src="https://github.com/user-attachments/assets/a8b04465-b5e4-4802-afe6-c6a3ca481cf3" />
 
 <!-- img src="화면.png"-->
 
