@@ -115,10 +115,10 @@ if __name__ == "__main__":
     st.set_page_config(layout="wide", page_title="LLM기반의 의료 상담 앱")
     # HTML 컴포넌트를 사용하여 위치 정보 표시
     # 페이지 제목
-    st.title('AI 의료 상담 앱')
+    st.title('AI 기반의 의료 상담 앱')
 
     # 질문 입력을 위한 텍스트 박스
-    question = st.text_input("증상을 입력하세요", "")
+    question = st.text_input("증상을 상세하게 입력하세요", "")
 
     # 질문에 대한 답변을 생성하는 버튼
     if st.button('AI 분석 답변 생성 시작'):
@@ -133,7 +133,7 @@ if __name__ == "__main__":
             st.error("질문을 제공해주세요.")  # 필수 입력이 없을 경우 사용자에게 알림
 
 
-    st.write("#### 현재 위치를 기준으로 주변 병원을 추천드리겠습니다.")
+    st.write("#### 현재 위치를 기준으로 주변 병원을 추천합니다.")
     location = streamlit_geolocation()
     
     locations = location['latitude'], location['longitude']
