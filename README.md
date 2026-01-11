@@ -1,6 +1,6 @@
 # AI 기반 의료 상담 및 병원 추천 서비스
 
-## UI >>>
+## <<UI 
 <img width="472.5" height="193.9" alt="image" src="https://github.com/user-attachments/assets/5c5f5e74-271a-4700-9385-8efa1a3cee0f" />
 
 
