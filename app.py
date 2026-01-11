@@ -115,7 +115,7 @@ if __name__ == "__main__":
     st.set_page_config(layout="wide", page_title="LLM기반의 의료 상담 앱")
     # HTML 컴포넌트를 사용하여 위치 정보 표시
     # 페이지 제목
-    st.title('LLM기반의 의료 상담 앱')
+    st.title('AI 의료 상담 앱')
 
     # 질문 입력을 위한 텍스트 박스
     question = st.text_input("증상을 입력하세요", "")
